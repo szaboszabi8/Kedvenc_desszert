@@ -1,0 +1,47 @@
+header{
+    height: 150px;
+    background-color: rgb(233, 172, 97);
+    color: bisque;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    font-family: Croissant One;
+}
+main{
+    background-color: rgb(230, 217, 201);
+}
+footer{
+    height: 50px;
+    background-color: rgb(233, 172, 97);
+    color: bisque;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+    font-family: Croissant One;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    color: rgb(0, 0, 0);
+    padding: 8px 22px;
+    border-radius: 10px;
+    border-color: #af904d;
+    background: #d6c576;
+    transition: all 0.2s ease;
+    margin-top: 100px;
+    padding: 30px;
+    width: 350px;
+    height: 275px;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-family: Croissant One;
+}
+
+button:active {
+    transform: scale(0.96)
+}
