@@ -20,7 +20,7 @@ main{
 }
 
 footer{
-    height: 80px;
+    height: 75px;
     background-color: rgb(233, 172, 97);
     color: bisque;
     font-weight: bold;
@@ -29,9 +29,6 @@ footer{
     text-align: center;
     font-family: Croissant One;
     color: rgb(0, 0, 0);
-    margin-top: 80px;
-    position: absolute;
-    bottom: 0;
 }
 
 #kep1{
